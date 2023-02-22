@@ -39,12 +39,14 @@ h1 {
     font-size: 1.7em;
     color: #484848;
     text-align: center;
+    text-shadow: 1px 1px #eee;
 }
 
 h2 {
     color: #ff6663;
     text-align: center;
     padding: 0 0.625rem;
+    text-shadow: 1px 1px #eee;
 }
 
 .do-btn {
@@ -59,6 +61,7 @@ h2 {
     border-radius: 3px;
     margin-bottom: 50px;
     cursor: pointer;
+    text-shadow: 0.5px 0.5px #eee;
 }
 
 .do-btn:hover,
