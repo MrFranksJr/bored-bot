@@ -6,7 +6,9 @@ const buttonArray = [
     "Now what?",
     "You good?",
     "Another round..?",
-    "One more time!"
+    "One more time!",
+    "Happy Bot?",
+    "Not quite..."
 ]
 
 export default buttonArray

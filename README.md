@@ -1,21 +1,29 @@
-# co4794917ae291562fc9ee2dc
+*Feb 22, 2022 - Franky Jr Blondeel*
+<p align="center">
+<img alt="banner image" src="https://raw.githubusercontent.com/MrFranksJr/MrFranksJr/main/assets/bored-bot/Banner.png">
+</p>
 
-Quick start:
+# BoredBot – playing with the BoredAPI
 
-```
-$ npm install
-$ npm start
-````
+## Overview
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+**Live version [here](https://bored-botz.netlify.app)**
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+BoredBot is an introductory app, part of Module 8 of the Front-Developer Career Path over at [scrimba.com](https://scrimba.com).
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+With this app, we explore the FetchAPI interface and interact with the BoredAPI in order to find us something nice to do.
 
-Happy Coding!
+Below are the topics we covered in this module:
+<p align="center">
+<img alt="requirements" src="https://raw.githubusercontent.com/MrFranksJr/MrFranksJr/main/assets/bored-bot/topics.png">
+</p>
+
+All and all a fairly simple app, just to take my first steps into working with APIs.
+
+### Some extra's
+I did add a couple of extra's in this app:
+* The logo was generated with Dall E, because why not :)
+* The button relies on an array to feed the user a couple of extra strings of text when they press it.
+
+<img alt="screenshot of the finished app on an iPhone" src="https://raw.githubusercontent.com/MrFranksJr/MrFranksJr/main/assets/bored-bot/app.png">
+</p>
