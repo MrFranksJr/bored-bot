@@ -10,7 +10,6 @@ function getActivity() {
       .then(response => response.json())
       .then(data => {
         doBtn.innerHTML = loadingSvg
-        console.log(data)
         document.getElementById("activity-name").textContent = data.activity
         doBtn.innerHTML = buttonArray[randomIntFromInterval(0, buttonArray.length-1)]
       })

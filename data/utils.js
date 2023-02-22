@@ -9,7 +9,5 @@ const loadingSvg = `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://
 
 //GENERATE RANDOM NUMBER BETWEEN NUMBERS//
 function randomIntFromInterval(min, max) { // min and max included
-    const generatedNumber =  Math.floor(Math.random() * (max - min + 1) + min)
-    console.log(generatedNumber)
-    return generatedNumber
+    return Math.floor(Math.random() * (max - min + 1) + min)
 }
