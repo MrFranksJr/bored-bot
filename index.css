@@ -55,6 +55,7 @@ h2 {
     border: 2px solid transparent;
     border-radius: 3px;
     margin-bottom: 50px;
+    cursor: pointer;
 }
 
 .do-btn:hover,
