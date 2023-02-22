@@ -20,6 +20,7 @@ body {
     width: 100%;
     max-width: 550px;
     margin: 0 auto;
+    max-height:800px;
     height: 100%;
 }
 
