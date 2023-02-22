@@ -1,5 +1,5 @@
-import buttonArray from "./data/buttonArray"
-import { loadingSvg, randomIntFromInterval } from "./data/utils"
+import buttonArray from "../data/buttonArray"
+import { loadingSvg, randomIntFromInterval } from "../data/utils"
 
 const doBtn = document.getElementById('do-btn')
 
