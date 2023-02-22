@@ -25,5 +25,5 @@ I did add a couple of extra's in this app:
 * The logo was generated with Dall E, because why not :)
 * The button relies on an array to feed the user a couple of extra strings of text when they press it.
 
-<img alt="screenshot of the finished app on an iPhone" src="https://raw.githubusercontent.com/MrFranksJr/MrFranksJr/main/assets/bored-bot/app.png">
+<img alt="screenshot of the finished app on an iPhone" src="https://raw.githubusercontent.com/MrFranksJr/MrFranksJr/main/assets/bored-bot/app.jpeg">
 </p>
