@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inconsolata', monospace, -apple-system, 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Helvetica Neue', sans-serif;
+    background-color: #ede7b1;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 550px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.main-logo {
+    display: block;
+    width: auto;
+    max-width: 200px;
+    margin: 1.25rem auto 0.8rem auto;
+}
+
+hr {
+    width: 100%;
+    margin: 0
+}
+
+h1 {
+    font-size: 1.7em;
+    color: #484848;
+    text-align: center;
+}
+
+h2 {
+    color: #ff6663;
+    text-align: center;
+    padding: 0 0.625rem;
+}
+
+.do-btn {
+    color: #484848;
+    font-size: 1.3rem;
+    font-weight: 800;
+    width: 180px;
+    height: 55px;
+    border: none;
+    background-color: #f694c1;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    margin-bottom: 50px;
+}
+
+.do-btn:hover,
+.do-btn:focus {
+    background-color: #e4c1f9;
+    border: 2px solid #f694c1;
+}
+
+.do-btn:active {
+    background-color: #f694c1;
+    border: 2px solid #484848;
+}
