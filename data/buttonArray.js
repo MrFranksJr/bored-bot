@@ -3,7 +3,10 @@ const buttonArray = [
     "Still bored?", 
     "Surely you're ok now?",
     "Something else?",
-    "Now what?"
+    "Now what?",
+    "You good?",
+    "Another round..?",
+    "One more time!"
 ]
 
 export default buttonArray
