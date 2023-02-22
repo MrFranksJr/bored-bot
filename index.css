@@ -1,12 +1,16 @@
 * {
     margin: 0;
     box-sizing: border-box;
+    color: #484848;
+}
+
+html, body {
+    height: 100%;
 }
 
 body {
     font-family: 'Inconsolata', monospace, -apple-system, 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Helvetica Neue', sans-serif;
     background-color: #ede7b1;
-    height: 100%;
     overflow: hidden;
     touch-action: none;
     -ms-touch-action: none;
@@ -38,30 +42,34 @@ hr {
 
 h1 {
     font-size: 1.7em;
-    color: #484848;
     text-align: center;
     text-shadow: 1px 1px #eee;
 }
 
 h2 {
-    color: #ff6663;
+    color: #f694c1;
     text-align: center;
     padding: 0 0.625rem;
     text-shadow: 1px 1px #eee;
 }
 
+footer {
+    padding-bottom: 0.625rem;
+    font-size: 0.8rem;
+    text-align: center;
+    text-shadow: 0.5px 0.5px #eee;
+}
+
 .do-btn {
-    color: #484848;
     font-size: 1.3rem;
     font-weight: 800;
     width: 180px;
     height: 55px;
-    border: none;
     background-color: #f694c1;
     border: 2px solid transparent;
     border-radius: 3px;
-    margin-bottom: 50px;
     cursor: pointer;
+    margin-bottom: 2.5rem;
     text-shadow: 0.5px 0.5px #eee;
 }
 
