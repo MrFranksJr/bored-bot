@@ -9,7 +9,7 @@
 
 **Live version [here](https://bored-botz.netlify.app)**
 
-BoredBot is an introductory app, part of Module 8 of the Front-Developer Career Path over at [scrimba.com](https://scrimba.com).
+BoredBot is an introductory app, part of Module 9 of the Front-Developer Career Path over at [scrimba.com](https://scrimba.com).
 
 With this app, we explore the FetchAPI interface and interact with the BoredAPI in order to find us something nice to do.
 
